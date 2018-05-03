@@ -1,0 +1,36 @@
+.container {
+		background-color: #CCCC00;
+}
+.header__group {
+		background-color: #00CCCC;
+}
+#content {
+		background-color: #CCCCCC;
+}
+.carousel__title {
+		background-color: #CC0000;
+}
+.carousel__visual {
+		background-color: #00CC00;
+}
+.carousel__body {
+		background-color: #0000CC;
+}
+.special__item {
+		background-color: #666600;
+}
+.row {
+		background-color: #006666;
+}
+.row_dense {
+		background-color: #660066;
+}
+.col-sm-4 {
+		background-color: #006600;
+}
+.col-sm-6 {
+		background-color: #660000;
+}
+.col-sm-3 {
+		background-color: #000066;
+}
